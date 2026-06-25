@@ -10,7 +10,7 @@ import profile from "../assets/images/profile.jpeg";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen bg-slate-950 text-white flex items-center">
+      <section id="home" className="min-h-screen ...">
       <div className="max-w-7xl mx-auto px-8 grid lg:grid-cols-2 gap-16 items-center">
 
         {/* Left Side */}
